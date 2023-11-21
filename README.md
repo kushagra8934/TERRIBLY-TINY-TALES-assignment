@@ -6,11 +6,11 @@ Project Structure-
 1. Index.js
 2. App.js
 3. Components
-   1- Head
+   1- Header
    2- Navbar
-   3- Post
-   4- Card
-4. utils folder
+   3- Important
+   4- News Cards
+4. utils(Json) folder
 5. assets folder
 
 
